@@ -1,0 +1,179 @@
+/* ===================================
+   Tablet
+=================================== */
+
+@media (max-width:992px){
+
+.hero{
+    padding:20px;
+}
+
+.glass{
+
+    width:95%;
+
+    padding:45px 30px;
+
+}
+
+.glass h1{
+
+    font-size:55px;
+
+}
+
+.glass p{
+
+    font-size:18px;
+
+}
+
+.gallery{
+
+    padding:60px 20px;
+
+}
+
+.memory{
+
+    width:90%;
+
+}
+
+.memory p{
+
+    font-size:20px;
+
+    padding:20px;
+
+}
+
+}
+
+
+/* ===================================
+   Mobile
+=================================== */
+
+@media (max-width:768px){
+
+.glass{
+
+    padding:35px 25px;
+
+}
+
+.glass h3{
+
+    font-size:18px;
+
+    letter-spacing:2px;
+
+}
+
+.glass h1{
+
+    font-size:42px;
+
+}
+
+.glass p{
+
+    font-size:16px;
+
+}
+
+button{
+
+    width:100%;
+
+}
+
+.gallery h2{
+
+    font-size:34px;
+
+}
+
+.memory{
+
+    width:95%;
+
+}
+
+.memory img{
+
+    border-radius:15px;
+
+}
+
+.memory p{
+
+    font-size:17px;
+
+    line-height:1.7;
+
+}
+
+.letter{
+
+    width:95%;
+
+    padding:25px;
+
+    font-size:17px;
+
+}
+
+.music-toggle{
+
+    width:48px;
+
+    height:48px;
+
+    right:15px;
+
+    bottom:15px;
+
+}
+
+}
+
+
+/* ===================================
+   Small Phone
+=================================== */
+
+@media (max-width:480px){
+
+.glass h1{
+
+    font-size:34px;
+
+}
+
+.glass p{
+
+    font-size:15px;
+
+}
+
+.gallery h2{
+
+    font-size:28px;
+
+}
+
+.memory p{
+
+    font-size:15px;
+
+}
+
+#typingText{
+
+    font-size:16px;
+
+}
+
+}
